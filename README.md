@@ -18,8 +18,8 @@ Step 4:
 Save the pages once you're done.
 ```
 ## OUTPUT:
-![GITHUB LOGO](home page.png)
-![GITHUB LOGO](moderization.png)
+![GITHUB LOGO](home.png)
+![GITHUB LOGO](m.png)
 ![GITHUB LOGO](a.png)
 
 
