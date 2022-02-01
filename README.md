@@ -18,7 +18,8 @@ Step 4:
 Save the pages once you're done.
 ```
 ## OUTPUT:
-![GITHUB LOGO](home.png)
+![image](https://user-images.githubusercontent.com/94165327/152007418-f8c83041-aad4-4598-ac25-bbd985bea16b.png)
+
 ![GITHUB LOGO](m.png)
 ![GITHUB LOGO](a.png)
 
